@@ -7,20 +7,18 @@
 
 
 
-I am Learning Mern Stack at Masai School and i m create lot of Mini Project by Using HTML, CSS and Javascript and i also Clonig three Big project BY using Html, Css Javacripts and in some part by using Backend like MongoDb, expressJs, NodeJs and Npm .
+I am Learning Mern Stack at Masai School and I m create lot of Mini Project by Using HTML, CSS and Javascript and i also Clonig three Big project BY using Html, Css Javacripts and in some part by using Backend like MongoDb, expressJs, NodeJs and Npm .
 
  
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 🌱 I’m currently learning Data Structures and MERN Stack.
-- 👨‍💻 Check my projects and portfolio **[Gaurav](https://portfolio-jalixn6ua-dipaliku999-gmailcom.vercel.app/)**
+- 👨‍💻 Check my projects and portfolio **[Ravi](https://portfolio-jalixn6ua-dipaliku999-gmailcom.vercel.app/)**
 - 📫 Reach me **Pravi1546@gmail.com**
  
 # Tools & Technology 
 <br/>
 <br/>
-<img src = "https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" align="left">
-<br/>
-<br/>
+
 
 <img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" align="center">
 
@@ -38,12 +36,6 @@ I am Learning Mern Stack at Masai School and i m create lot of Mini Project by U
 
 
 
-
-<p align="center">
-    <a href="https://github.com/gaurav16-lang/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="gaurav16-lang" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav16-lang&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
 <a href="https://github.com/gaurav16-lang/github-readme-activity-graph"><img alt="gaurav16-lang Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gaurav16-lang&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
