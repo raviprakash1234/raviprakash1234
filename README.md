@@ -25,9 +25,9 @@ I am Learning Mern Stack at Masai School and I m create lot of Mini Project by U
 <br />
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gaurav16-lang&show_icons=true&theme=radical" width=47%>
+<img src="https://github-readme-stats.vercel.app/api?username=raviprakash1234&show_icons=true&theme=radical" width=47%>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav16-lang&layout=compact"  width=47% margin-left=50%>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviprakash1234&layout=compact"  width=47% margin-left=50%>
 </p>
 <br/>
 <br/>
@@ -37,7 +37,7 @@ I am Learning Mern Stack at Masai School and I m create lot of Mini Project by U
 
 
 
-<a href="https://github.com/gaurav16-lang/github-readme-activity-graph"><img alt="gaurav16-lang Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gaurav16-lang&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/raviprakash1234/github-readme-activity-graph"><img alt="raviprakash1234 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=raviprakash1234&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## Connect with me: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width=80px/>
 
