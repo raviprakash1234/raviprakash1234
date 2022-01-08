@@ -51,7 +51,7 @@ I am Learning Mern Stack at Masai School and I m create lots of Mini Projects by
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/ravi-prakash-kumar-b67467141/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
-<a href = "https://www.linkedin.com/in/ravi-prakash-kumar-b67467141/"><img height=35px marginTop=-5px src="https://seeklogo.com/images/A/adobe-portfolio-logo-BD502F658C-seeklogo.com.png" /></a>
+<a href = "https://www.linkedin.com/in/ravi-prakash-kumar-b67467141/"><img height=35px  src="https://images.indianexpress.com/2020/10/Gmail-new-logo.jpg" /></a>
 
 
 </p>
