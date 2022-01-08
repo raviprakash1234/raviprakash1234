@@ -51,7 +51,7 @@ I am Learning Mern Stack at Masai School and I m create lots of Mini Projects by
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/ravi-prakash-kumar-b67467141/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
-<a href = "https://www.linkedin.com/in/ravi-prakash-kumar-b67467141/"><img height=43px  src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" /></a>
+<a href = "pravi1546@gmail.com"><img height=43px  src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" /></a>
 
 
 </p>
@@ -61,7 +61,7 @@ I am Learning Mern Stack at Masai School and I m create lots of Mini Projects by
 <a href="https://github.com/raviprakash1234/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=raviprakash1234">
 </a>
-<a href="pravi1546@gmail.com"><img src="https://img.shields.io/github/followers/raviprakash1234?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/raviprakash1234?tab=followers"><img src="https://img.shields.io/github/followers/raviprakash1234?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
