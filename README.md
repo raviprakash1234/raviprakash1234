@@ -12,7 +12,7 @@ I am Learning Mern Stack at Masai School and I m create lots of Mini Projects by
  
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 🌱 I’m currently learning Data Structures and MERN Stack.
-- 👨‍💻 Check my projects and portfolio **[Ravi](https://portfolio-jalixn6ua-dipaliku999-gmailcom.vercel.app/)**
+- 👨‍💻 Check my projects and portfolio **[Ravi](https://raviprakash-portfolio.netlify.app/)**
 - 📫 Reach me **Pravi1546@gmail.com**
  
 # Tools & Technology 
