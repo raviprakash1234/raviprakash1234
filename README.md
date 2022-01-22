@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://twitter.com/i/status/1484930201301970946"  width=100% >
+<img src="https://en.bloggif.com/tmp/bf6cd973536c33db61651f7dab16fd36/text.gif?1642870078"  width=100% >
 </p>
 
 
