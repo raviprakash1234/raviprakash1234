@@ -6,7 +6,7 @@
 </p>
 
 
-👋 Hi, I’m a Frontend Developer with 4+ years of experience building scalable, user-focused web applications. I specialize in React and Next.js, with strong expertise in modern JavaScript, performance optimization, and responsive UI development. I enjoy turning complex requirements into clean, maintainable interfaces and continuously improving code quality.
+👋 Hi, I’m a Full Stack Developer with 4+ years of experience building scalable, user-focused web applications. I specialize in React and Next.js, with strong expertise in modern JavaScript, performance optimization, and responsive UI development. I enjoy turning complex requirements into clean, maintainable interfaces and continuously improving code quality.
 
  
 - 👯 I’m open to collaborating on **Open Source projects**
