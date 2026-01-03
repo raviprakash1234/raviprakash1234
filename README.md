@@ -6,14 +6,13 @@
 </p>
 
 
-
-I am Learning Mern Stack at Masai School and I m create lots of Mini Projects by Using HTML, CSS and Javascript and I also Cloning Big projects BY using Html, Css Javacripts and in some part by using Backend like MongoDb, expressJs, NodeJs and Npm .
+👋 Hi, I’m a Frontend Developer with 4+ years of experience building scalable, user-focused web applications. I specialize in React and Next.js, with strong expertise in modern JavaScript, performance optimization, and responsive UI development. I enjoy turning complex requirements into clean, maintainable interfaces and continuously improving code quality.
 
  
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-- 🌱 I’m currently learning Data Structures and MERN Stack.
-- 👨‍💻 Check my projects and portfolio **[Ravi](https://raviprakash-portfolio.netlify.app/)**
-- 📫 Reach me **Pravi1546@gmail.com**
+- 👯 I’m open to collaborating on **Open Source projects**
+- 🌱 Currently strengthening my knowledge in **Data Structures** and expanding my skills across the **MERN stack**
+- 👨‍💻 Explore my projects and portfolio: **[Ravi](https://raviprakash-portfolio.netlify.app/)**
+- 📫 Reach me at: **pravi1546@gmail.com**
  
 # Tools & Technology 
 <br/>
